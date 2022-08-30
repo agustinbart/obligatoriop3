@@ -3,6 +3,7 @@
 Programa realizado para la materia programación 3. Se pide desarrollar un software el cuál gestione las reparaciones y el sistema de reservas.
 
 Requerimientos funcionales:
+
 Acceso público:
 
 -Formulario de registro / ingreso de cliente.
