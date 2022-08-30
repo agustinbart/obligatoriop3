@@ -2,6 +2,8 @@
 
 Programa realizado para la materia programación 3. Se pide desarrollar un software el cuál gestione las reparaciones y el sistema de reservas.
 
+Tecnologías utilizadas: ASP.NET, C#, SQL Server.
+
 Requerimientos funcionales:
 
 Acceso público:
