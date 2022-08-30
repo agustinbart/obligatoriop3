@@ -1,0 +1,44 @@
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Persistencia\bin\Debug\Modelo.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Persistencia\bin\Debug\Modelo.dll.config
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\bin\Debug\Modelo.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\bin\Debug\Modelo.dll.config
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\obj\Debug\Persistencia.pdb
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\bin\Debug\Persistencia.dll.config
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\bin\Debug\Persistencia.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\bin\Debug\Persistencia.pdb
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\bin\Debug\Modelo.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\bin\Debug\Modelo.pdb
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\bin\Debug\Modelo.dll.config
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\obj\Debug\Persistencia.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Persistencia\obj\Debug\Persistencia.pdb
+D:\Clase\ObligatorioP3\Programa\Dominio\Persistencia\bin\Debug\Persistencia.dll.config
+D:\Clase\ObligatorioP3\Programa\Dominio\Persistencia\bin\Debug\Persistencia.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Persistencia\bin\Debug\Persistencia.pdb
+D:\Clase\ObligatorioP3\Programa\Dominio\Persistencia\bin\Debug\Modelo.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Persistencia\bin\Debug\Modelo.pdb
+D:\Clase\ObligatorioP3\Programa\Dominio\Persistencia\bin\Debug\Modelo.dll.config
+D:\Clase\ObligatorioP3\Programa\Dominio\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+D:\Clase\ObligatorioP3\Programa\Dominio\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+D:\Clase\ObligatorioP3\Programa\Dominio\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+D:\Clase\ObligatorioP3\Programa\Dominio\Persistencia\obj\Debug\Persistencia.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Persistencia\obj\Debug\Persistencia.pdb

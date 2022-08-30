@@ -1,0 +1,56 @@
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Dominio\bin\Debug\Dominio.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Dominio\obj\Debug\Dominio.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Dominio\bin\Debug\Modelo.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Dominio\bin\Debug\Persistencia.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Dominio\bin\Debug\Modelo.pdb
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Dominio\bin\Debug\Modelo.dll.config
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Dominio\bin\Debug\Persistencia.pdb
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Dominio\bin\Debug\Persistencia.dll.config
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Dominio.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Dominio.pdb
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Modelo.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Persistencia.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Modelo.pdb
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Modelo.dll.config
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Persistencia.pdb
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Persistencia.dll.config
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\obj\Debug\Dominio.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\obj\Debug\Dominio.pdb
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Dominio.dll.config
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Dominio.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Dominio.pdb
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Modelo.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Persistencia.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Modelo.pdb
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Modelo.dll.config
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Persistencia.pdb
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\bin\Debug\Persistencia.dll.config
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\obj\Debug\Dominio.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Dominio\obj\Debug\Dominio.pdb
+D:\Clase\ObligatorioP3\Programa\Dominio\Dominio\bin\Debug\Dominio.dll.config
+D:\Clase\ObligatorioP3\Programa\Dominio\Dominio\bin\Debug\Dominio.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Dominio\bin\Debug\Dominio.pdb
+D:\Clase\ObligatorioP3\Programa\Dominio\Dominio\bin\Debug\Modelo.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Dominio\bin\Debug\Persistencia.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Dominio\bin\Debug\Modelo.pdb
+D:\Clase\ObligatorioP3\Programa\Dominio\Dominio\bin\Debug\Modelo.dll.config
+D:\Clase\ObligatorioP3\Programa\Dominio\Dominio\bin\Debug\Persistencia.pdb
+D:\Clase\ObligatorioP3\Programa\Dominio\Dominio\bin\Debug\Persistencia.dll.config
+D:\Clase\ObligatorioP3\Programa\Dominio\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+D:\Clase\ObligatorioP3\Programa\Dominio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\Clase\ObligatorioP3\Programa\Dominio\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+D:\Clase\ObligatorioP3\Programa\Dominio\Dominio\obj\Debug\Dominio.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Dominio\obj\Debug\Dominio.pdb

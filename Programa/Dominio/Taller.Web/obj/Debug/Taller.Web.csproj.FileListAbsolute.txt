@@ -1,0 +1,340 @@
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Taller.Web.dll.config
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Taller.Web.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Taller.Web.pdb
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csc.exe
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csc.exe.config
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csc.rsp
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csi.exe
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csi.exe.config
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csi.rsp
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Console.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\vbc.exe
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\vbc.exe.config
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\vbc.rsp
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Antlr3.Runtime.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Dominio.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Newtonsoft.Json.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\System.Web.Optimization.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\WebGrease.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Dominio.pdb
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Dominio.dll.config
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\System.Web.Optimization.xml
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Newtonsoft.Json.xml
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\obj\Debug\Taller.Web.csproj.AssemblyReference.cache
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\obj\Debug\Taller.Web.csproj.CoreCompileInputs.cache
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\obj\Debug\Taller.Web.csproj.CopyComplete
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\obj\Debug\Taller.Web.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\obj\Debug\Taller.Web.pdb
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Modelo.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Persistencia.dll
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Modelo.pdb
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Modelo.dll.config
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Persistencia.pdb
+C:\Users\Agustín\Desktop\ObligatorioP3\Dominio\Taller.Web\bin\Persistencia.dll.config
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Taller.Web.dll.config
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Taller.Web.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Taller.Web.pdb
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csc.exe
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csc.exe.config
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csc.rsp
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csi.exe
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csi.exe.config
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csi.rsp
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.AppContext.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Console.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Net.Http.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\vbc.exe
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\vbc.exe.config
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\vbc.rsp
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Antlr3.Runtime.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Dominio.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Modelo.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Newtonsoft.Json.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\System.Web.Optimization.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\WebGrease.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Persistencia.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Dominio.pdb
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Dominio.dll.config
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Modelo.pdb
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Modelo.dll.config
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\System.Web.Optimization.xml
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Newtonsoft.Json.xml
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Antlr3.Runtime.pdb
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Persistencia.pdb
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Persistencia.dll.config
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\obj\Debug\Taller.Web.csproj.AssemblyReference.cache
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\obj\Debug\Taller.Web.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\obj\Debug\Taller.Web.csproj.CopyComplete
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\obj\Debug\Taller.Web.dll
+C:\Users\barte\Desktop\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\obj\Debug\Taller.Web.pdb
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\obj\Debug\Taller.Web.csproj.AssemblyReference.cache
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\obj\Debug\Taller.Web.csproj.CoreCompileInputs.cache
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\obj\Debug\Taller.Web.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\obj\Debug\Taller.Web.pdb
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Taller.Web.dll.config
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Taller.Web.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Taller.Web.pdb
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csc.exe
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csc.exe.config
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csc.rsp
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csi.exe
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csi.exe.config
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\csi.rsp
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.AppContext.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Console.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.IO.Compression.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Net.Http.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Net.Sockets.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.ValueTuple.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Xml.XPath.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\vbc.exe
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\vbc.exe.config
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\vbc.rsp
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\VBCSCompiler.exe
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Antlr3.Runtime.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Dominio.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Modelo.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Newtonsoft.Json.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\System.Web.Optimization.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\WebGrease.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Persistencia.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Dominio.pdb
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Dominio.dll.config
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Modelo.pdb
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Modelo.dll.config
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\System.Web.Optimization.xml
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Newtonsoft.Json.xml
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Antlr3.Runtime.pdb
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Persistencia.pdb
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\Persistencia.dll.config
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\es\System.Web.Optimization.resources.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Clase\Programación 3\ObligatorioP3\Dominio\Taller.Web\obj\Debug\Taller.Web.csproj.CopyComplete
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Taller.Web.dll.config
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Taller.Web.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Taller.Web.pdb
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\csc.exe
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\csc.exe.config
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\csc.rsp
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\csi.exe
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\csi.exe.config
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\csi.rsp
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.AppContext.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Console.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.IO.Compression.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Net.Http.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Net.Sockets.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.ValueTuple.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Xml.XPath.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\vbc.exe
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\vbc.exe.config
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\vbc.rsp
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\VBCSCompiler.exe
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Antlr3.Runtime.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Dominio.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Modelo.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Newtonsoft.Json.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\System.Web.Optimization.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\WebGrease.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Persistencia.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Dominio.pdb
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Dominio.dll.config
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Modelo.pdb
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Modelo.dll.config
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\System.Web.Optimization.xml
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Newtonsoft.Json.xml
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Antlr3.Runtime.pdb
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Persistencia.pdb
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\Persistencia.dll.config
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\es\System.Web.Optimization.resources.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\obj\Debug\Taller.Web.csproj.AssemblyReference.cache
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\obj\Debug\Taller.Web.csproj.CoreCompileInputs.cache
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\obj\Debug\Taller.Web.csproj.CopyComplete
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\obj\Debug\Taller.Web.dll
+D:\Clase\ObligatorioP3\Programa\Dominio\Taller.Web\obj\Debug\Taller.Web.pdb
